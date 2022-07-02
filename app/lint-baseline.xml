@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="5" by="lint Arctic Fox | 2020.3.1 Patch 3">
+
+    <issue
+        id="HardcodedText"
+        message="Hardcoded string &quot;Paid&quot;, should use `@string` resource">
+        <location
+            file="src\paid_version\res\layout\activity_main.xml"
+            line="11"/>
+    </issue>
+
+</issues>
